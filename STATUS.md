@@ -1,22 +1,10 @@
+# Project Status Log
 
-# STATUS.md
-
-**Student:** Kayitanirwa Shalihah  
-**Registration Number:** 264552024  
-**D:** 4  
-**T:** 24  
-
-## Done
-- Created dart_basics.dart.
-- Created momo_sim.dart.
-- Prepared the solutions for Parts A to F.
-
-## In Progress
-- Testing Dart programs.
-- Checking program outputs.
-- Preparing answers.pdf.
-- Preparing GitHub repository.
-
-## Stuck On
-- No major problem at the moment.
-- Need to complete testing and final submission.
+- **Student:** Kayitanirwa Shalihah (Reg: 264552024)[cite: 2]
+- **Status:** Complete[cite: 3]
+- **Files Included:**
+  - `dart_basics.dart`[cite: 2]
+  - `momo_sim.dart`[cite: 2]
+  - `answers.pdf`[cite: 2]
+  - `README.md`[cite: 2]
+  - `STATUS.md`[cite: 2]

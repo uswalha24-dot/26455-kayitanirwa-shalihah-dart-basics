@@ -1,8 +1,8 @@
-# 264552024-kayitanirwa-shalihah-dart-basics
-## Student Information
+# Dart Basics Assignment
 
-- *Full Name:* kayitanirwa shalihah
-- *Registration Number:* 264552024
-- *D:* 4
-- *T:* 24
-- *GitHub Username:* uswalha24-dot
+- **Student Name:** Kayitanirwa Shalihah[cite: 2]
+- **Registration Number:** 264552024[cite: 2]
+- **Constants:** D = 4, T = 24[cite: 2]
+
+## Overview
+This repository contains solutions, simulations, and written answers for the Dart Basics programming assignment.
